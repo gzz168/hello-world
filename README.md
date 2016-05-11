@@ -1,2 +1,2 @@
 # hello-world
-Hi ! I am a novice,please take care of a lot.
+I like the front-end development,wish to discuss with you here,make progress together.
